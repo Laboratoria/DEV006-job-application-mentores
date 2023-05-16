@@ -91,14 +91,14 @@ ellas y el equipo de Laboratoria.
 podrás consultar los objetivos a alcanzar con la
 revisión y feedback de herramientas y con la simulación.**
 
-|                    Actividades                      |   Tipo   | Semana   | Día/hora |
+|                    Actividades                      |   Tipo   | Fecha   | Día/hora |
 |-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |          |          |
-| Sesión de revisión y feedback de CV + LinkedIn.     |   Fija   |          |          |
-| Sesión de seguimiento al feedback.                  | Abierta  |          |          |
-| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |          |          |
-| Simulación de entrevista de recursos humanos.       | Abierta  |          |          |
-| Enviar formulario evaluación y feedback entrevista. | Abierta  |          |          |
+| Sesión de Q&A sobre el programa.                    |   Fija   |  Semana del 22/05   |Día: 23/05 <br> 12:00pm CL<br> 10:00am MX<br> 11:00am PE-CO|
+| Sesión de revisión y feedback de CV + LinkedIn.     | Abierta  |   Semana del 05/06       |    Definir día y hora con mentee      |
+| Sesión de seguimiento al feedback.                  | Abierta  |    Semana del 12/06     |  Definir día y hora con mentee        |
+| Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |    Semana del 12/06 a <br> semana del 19/06     |          |
+| Simulación de entrevista de recursos humanos.       | Abierta  |    Semana del 26/06 a <br> semana del 07/07     |      Definir día y hora con mentee    |
+| Enviar formulario evaluación y feedback entrevista. | Abierta  |      Semana del 26/96 a <br> semana del 10/07    |          |
 
 ### Objetivos de aprendizaje
 
