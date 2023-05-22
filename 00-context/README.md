@@ -78,8 +78,8 @@ ellas y el equipo de Laboratoria.
  Laboratoria para resolver sus dudas sobre la dinámica y en la que no
  participarán aún las estudiantes.
 * 2 sesiones de revisión y feedback de herramientas con la primera estudiante que te hayamos asignado como mentee. (1 sesión de revisión y 1 sesión de seguimiento al feedback) 
-  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado por
-  el equipo de Laboratoria.
+  - Sesión 1: Revisión y feedback de CV + LinkedIn. Espacio programado
+  por la estudiante directamente con su mentora/or. 
   - Sesión 2: Seguimiento a la incorporación de feedback. Espacio programado
   por la estudiante directamente con su mentora/or.
 * 1 simulación de entrevista de recursos humanos con la segunda estudiante que te hayamos asignado como mentee. Actividad programada por la
