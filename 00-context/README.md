@@ -93,7 +93,7 @@ revisión y feedback de herramientas y con la simulación.**
 
 |                    Actividades                      |   Tipo   | Fecha   | Día/hora |
 |-----------------------------------------------------|----------|----------|----------|
-| Sesión de Q&A sobre el programa.                    |   Fija   |  Semana del 22/05   |Día: 23/05 <br> 12:00pm CL<br> 10:00am MX<br> 11:00am PE-CO|
+| Sesión de Q&A sobre el programa.                    |   Fija   |  Semana del 22/05|Día: 23/05 <br> 12:00pm CL<br> 10:00am MX<br> 11:00am PE-CO|
 | Sesión de revisión y feedback de CV + LinkedIn.     | Abierta  |   Semana del 05/06       |    Definir día y hora con mentee      |
 | Sesión de seguimiento al feedback.                  | Abierta  |    Semana del 12/06     |  Definir día y hora con mentee        |
 | Enviar formulario evaluación y feedback CV/LinkedIn.| Abierta  |    Semana del 12/06 a <br> semana del 19/06     |          |
@@ -129,9 +129,9 @@ simulación y revisión y feedback de su Github profile.**
 
 |                 Actividades                  |   Tipo   | Semana   | Día/hora |
 |----------------------------------------------|----------|----------|---------:|
-| Sesión de Q&A sobre el programa.             |   Fija   |          |          |
-| Simulación de entrevista técnica.            | Abierta  |          |          |
-| Enviar formulario evaluación y feedback.     | Abierta  |          |          |
+| Sesión de Q&A sobre el programa.             |   Fija   | 10/07 | 11/07<br>12:00MX<br>13:00(CO,PE)<br>14:00CL |
+| Simulación de entrevista técnica.            | Abierta  |      Del 17/07 a 28/07    |     A coordinar con mentee     |
+| Enviar formulario evaluación y feedback.     | Abierta  |    Hasta 31/07      |          |
 
 ### Objetivos de aprendizaje
 
