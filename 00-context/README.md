@@ -131,7 +131,7 @@ simulación y revisión y feedback de su Github profile.**
 |----------------------------------------------|----------|----------|---------:|
 | Sesión de Q&A sobre el programa.             |   Fija   | 10/07 | 11/07<br>12:00MX<br>13:00(CO,PE)<br>14:00CL |
 | Simulación de entrevista técnica.            | Abierta  |      Del 17/07 a 28/07    |     A coordinar con mentee     |
-| Enviar formulario evaluación y feedback.     | Abierta  |    Hasta 31/07      |          |
+| Enviar formulario evaluación y y correo de feedback a mentee.     | Abierta  |    Hasta 31/07      |          |
 
 ### Objetivos de aprendizaje
 
